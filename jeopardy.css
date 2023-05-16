@@ -1,0 +1,57 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+#container{
+  
+  width: 90%;
+  height: 1000px;
+ 
+  }
+
+
+
+.question{
+  width: 150px;
+    height: 120px;
+    border: solid 1px black;
+    margin: auto;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 9px;
+    vertical-align: middle;
+    padding-top: 15px;
+    margin-top: 10px;
+}
+.qRow{
+  display: flex;
+  
+}
+
+  .catagory{
+    width: 150px;
+    height: 120px;
+    border: solid 1px black;
+    margin: auto;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 9px;
+    vertical-align: middle;
+    padding-top: 15px;
+    
+    
+  }
+  .headerBlock{
+    display: flex;
+  }
+
+  .question:hover{
+    background-color: darkblue;
+  }
+
+  
